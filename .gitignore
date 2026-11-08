@@ -1,0 +1,14 @@
+# Windows 與本機設定
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+.env
+.env.*
+!.env.example
+*.local
+# 未來的相依套件及建置輸出
+node_modules/
+dist/
+build/
+__pycache__/
